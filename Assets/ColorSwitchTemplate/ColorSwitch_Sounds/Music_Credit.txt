@@ -1,0 +1,5 @@
+This Complete Project Template uses these sounds from freesound:
+BackGroundMusic is Arcade Music Loop by joshuaempyre ( http://freesound.org/people/joshuaempyre/ )
+ColorChangePickUp is 1-tone chime by skowm001 ( http://freesound.org/people/skowm001/ )
+
+CC-BY-3.0 License(in Separate File labeled CreativeCommons_3.0_License)
